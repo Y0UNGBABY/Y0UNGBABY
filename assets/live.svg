@@ -2213,6 +2213,12 @@
     96.5633% { fill: #0e4429; }
     100% { fill: #0e4429; }
   }
+  @keyframes grass-paint-365 {
+    0% { fill: #161b22; }
+    96.5111% { fill: #161b22; }
+    96.5211% { fill: #006d32; }
+    100% { fill: #006d32; }
+  }
   
   @keyframes flower-0 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
@@ -2224,10 +2230,10 @@
   }
   @keyframes flower-1 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    9.8288% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    9.8289% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    10.0490% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    12.0305% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    9.9726% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    9.9727% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    10.1928% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    12.1743% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
   @keyframes flower-2 {
@@ -2264,10 +2270,10 @@
   }
   @keyframes flower-6 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    38.5532% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    38.5533% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    38.7733% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    40.7548% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    38.4447% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    38.4448% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    38.6649% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    40.6464% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
   @keyframes flower-7 {
@@ -2304,10 +2310,10 @@
   }
   @keyframes flower-11 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    42.8602% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    42.8603% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    43.0803% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    45.0618% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    42.9321% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    42.9322% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    43.1523% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    45.1338% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
   @keyframes flower-12 {
@@ -2328,10 +2334,10 @@
   }
   @keyframes flower-14 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    47.3412% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    47.3413% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    47.5614% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    49.5429% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    47.3329% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    47.3330% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    47.5531% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    49.5346% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
   @keyframes flower-15 {
@@ -2344,13 +2350,21 @@
   }
   @keyframes flower-16 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    26.8124% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    26.8125% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    27.0325% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    29.0140% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+  }
+  @keyframes flower-17 {
+    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     57.3756% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     57.3757% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
     57.5958% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
     59.5773% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
-  @keyframes flower-17 {
+  @keyframes flower-18 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     44.1656% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     44.1657% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
@@ -2358,28 +2372,28 @@
     46.3672% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
-  @keyframes flower-18 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.3756% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.3757% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    57.5958% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    59.5773% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
   @keyframes flower-19 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.3756% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.3757% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    57.5958% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    59.5773% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    44.1656% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    44.1657% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    44.3857% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    46.3672% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
   @keyframes flower-20 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.7657% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.7658% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    57.9859% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    59.9674% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    44.4816% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    44.4817% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    44.7017% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    46.6832% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+  }
+  @keyframes flower-21 {
+    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    57.3756% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    57.3757% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    57.5958% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    59.5773% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
   
@@ -3782,27 +3796,29 @@
   <rect x="624" y="72" width="10" height="10" fill="#161b22" rx="2" style="animation: grass-paint-362 22.71s linear 0s 1 both"/>
   <rect x="624" y="84" width="10" height="10" fill="#161b22" rx="2" style="animation: grass-paint-363 22.71s linear 0s 1 both"/>
   <rect x="636" y="12" width="10" height="10" fill="#161b22" rx="2" style="animation: grass-paint-364 22.71s linear 0s 1 both"/>
-  <g id="flower-layer"><rect x="421.278370796523" y="19.84279167845316" width="1.081685026210506" height="1.081685026210506" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-0 22.71s linear 0s 1 both"/>
-  <rect x="423.942895852289" y="16.487107498074977" width="0.8857548114790871" height="0.8857548114790871" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-1 22.71s linear 0s 1 both"/>
-  <rect x="424.0760872465378" y="30.662640184547953" width="0.8143084457947962" height="0.8143084457947962" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-2 22.71s linear 0s 1 both"/>
-  <rect x="425.9039250355768" y="38.87907177222217" width="1.147982272486538" height="1.147982272486538" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-3 22.71s linear 0s 1 both"/>
-  <rect x="428.1859764119291" y="50.52908936978892" width="1.1468296590407545" height="1.1468296590407545" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-4 22.71s linear 0s 1 both"/>
-  <rect x="427.67082439079024" y="54.104298384926444" width="1.1851555148709283" height="1.1851555148709283" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-5 22.71s linear 0s 1 both"/>
-  <rect x="425.8556135584582" y="52.46206232741759" width="0.7249029872099858" height="0.7249029872099858" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-6 22.71s linear 0s 1 both"/>
-  <rect x="422.756699906196" y="65.66292729834602" width="0.73520586249079" height="0.73520586249079" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-7 22.71s linear 0s 1 both"/>
-  <rect x="422.12335655746733" y="74.5772420114254" width="0.9823423681748862" height="0.9823423681748862" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-8 22.71s linear 0s 1 both"/>
-  <rect x="427.44253684637005" y="79.61559619726529" width="1.1525442978058287" height="1.1525442978058287" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-9 22.71s linear 0s 1 both"/>
-  <rect x="421.23764141366485" y="76.70366543547674" width="1.0670817561930077" height="1.0670817561930077" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-10 22.71s linear 0s 1 both"/>
-  <rect x="421.89258820630016" y="79.40940643723536" width="1.2919804937529875" height="1.2919804937529875" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-11 22.71s linear 0s 1 both"/>
-  <rect x="439.5755652334598" y="77.60933374428303" width="0.8178925598086249" height="0.8178925598086249" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-12 22.71s linear 0s 1 both"/>
-  <rect x="450.3871317405952" y="78.4811584401692" width="1.160909279332533" height="1.160909279332533" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-13 22.71s linear 0s 1 both"/>
-  <rect x="448.778527083986" y="75.8973963590816" width="1.138830753989388" height="1.138830753989388" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-14 22.71s linear 0s 1 both"/>
-  <rect x="629.0331272129614" y="27.325816573086634" width="1.2799643445951088" height="1.2799643445951088" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-15 22.71s linear 0s 1 both"/>
-  <rect x="632.0094007441289" y="44.51463834148673" width="0.9524305212006969" height="0.9524305212006969" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-16 22.71s linear 0s 1 both"/>
-  <rect x="461.3499394094283" y="65.29732171081244" width="1.0898952468079104" height="1.0898952468079104" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-17 22.71s linear 0s 1 both"/>
-  <rect x="463.8483142442443" y="79.33634158871287" width="0.9068663564453863" height="0.9068663564453863" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-18 22.71s linear 0s 1 both"/>
-  <rect x="460.20569129319216" y="77.61331813581667" width="1.1327210166261859" height="1.1327210166261859" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-19 22.71s linear 0s 1 both"/>
-  <rect x="462.72454050967076" y="79.35536072364143" width="0.9385395837147549" height="0.9385395837147549" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-20 22.71s linear 0s 1 both"/></g>
+  <rect x="636" y="24" width="10" height="10" fill="#161b22" rx="2" style="animation: grass-paint-365 22.71s linear 0s 1 both"/>
+  <g id="flower-layer"><rect x="423.9887835091214" y="19.325767110955773" width="0.9313232159645677" height="0.9313232159645677" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-0 22.71s linear 0s 1 both"/>
+  <rect x="427.8260155125598" y="20.584037403641055" width="0.8800570767523412" height="0.8800570767523412" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-1 22.71s linear 0s 1 both"/>
+  <rect x="428.3556912728078" y="29.84325527134183" width="1.243884797090827" height="1.243884797090827" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-2 22.71s linear 0s 1 both"/>
+  <rect x="426.90368538395796" y="44.80473487504137" width="1.2711532149299258" height="1.2711532149299258" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-3 22.71s linear 0s 1 both"/>
+  <rect x="422.74157642497" y="51.814579598994676" width="0.741837774714134" height="0.741837774714134" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-4 22.71s linear 0s 1 both"/>
+  <rect x="426.11091700295594" y="54.90202623059044" width="1.270441264341947" height="1.270441264341947" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-5 22.71s linear 0s 1 both"/>
+  <rect x="423.42864487600434" y="49.86737377339395" width="1.1946496621176828" height="1.1946496621176828" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-6 22.71s linear 0s 1 both"/>
+  <rect x="424.80132359792316" y="67.64337491334742" width="1.0762753048146911" height="1.0762753048146911" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-7 22.71s linear 0s 1 both"/>
+  <rect x="425.6251572374709" y="73.30246566666504" width="0.8553193479533923" height="0.8553193479533923" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-8 22.71s linear 0s 1 both"/>
+  <rect x="427.24873022777973" y="73.26526027099835" width="1.0436502239920349" height="1.0436502239920349" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-9 22.71s linear 0s 1 both"/>
+  <rect x="422.6411959469283" y="78.01739885875867" width="1.049664640770269" height="1.049664640770269" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-10 22.71s linear 0s 1 both"/>
+  <rect x="422.61442543300603" y="80.14887018027522" width="0.8333875371650095" height="0.8333875371650095" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-11 22.71s linear 0s 1 both"/>
+  <rect x="439.5122099381203" y="80.74242889620572" width="1.2101207489182153" height="1.2101207489182153" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-12 22.71s linear 0s 1 both"/>
+  <rect x="452.0575998413987" y="76.63714055743884" width="1.2440246217867093" height="1.2440246217867093" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-13 22.71s linear 0s 1 both"/>
+  <rect x="449.4349413183983" y="76.9109769541578" width="0.8496451479611612" height="0.8496451479611612" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-14 22.71s linear 0s 1 both"/>
+  <rect x="632.338074356989" y="31.212726666686553" width="0.8961163639172256" height="0.8961163639172256" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-15 22.71s linear 0s 1 both"/>
+  <rect x="629.8409986207304" y="27.208086918237377" width="1.1581690875558284" height="1.1581690875558284" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-16 22.71s linear 0s 1 both"/>
+  <rect x="626.5378653589086" y="38.894493873546814" width="0.8291724845875124" height="0.8291724845875124" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-17 22.71s linear 0s 1 both"/>
+  <rect x="457.26579667260785" y="66.62466196857488" width="1.0228158854181837" height="1.0228158854181837" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-18 22.71s linear 0s 1 both"/>
+  <rect x="460.5845549440356" y="61.61813441220208" width="0.7329063726979589" height="0.7329063726979589" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-19 22.71s linear 0s 1 both"/>
+  <rect x="464.0042967843607" y="67.80641683378717" width="0.9482935414037617" height="0.9482935414037617" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-20 22.71s linear 0s 1 both"/>
+  <rect x="459.77469340322557" y="73.22758408802164" width="0.7567658624783274" height="0.7567658624783274" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-21 22.71s linear 0s 1 both"/></g>
   <g id="grass-crumbs" aria-hidden="true"><g transform="translate(425.00, 32.00)" aria-hidden="true"><rect x="-1.60" y="-0.60" width="3.2" height="1.2" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-0-0 0.55s linear 2.34s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-0-1 0.55s linear 2.4064671406024716s 1 forwards; pointer-events: none;" aria-hidden="true"/></g><g transform="translate(629.00, 44.00)" aria-hidden="true"><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-1-0 0.55s linear 6.452111693613988s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-1-1 0.55s linear 7.633713049533253s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-1-2 0.55s linear 7.651523724630533s 1 forwards; pointer-events: none;" aria-hidden="true"/></g><g transform="translate(461.00, 80.00)" aria-hidden="true"><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-0 0.55s linear 10.950743871133419s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-1 0.55s linear 11.637888288329123s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-2 0.55s linear 10.394758851834048s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-3 0.55s linear 11.624433802682033s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-4 0.55s linear 11.607750946947199s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-5 0.55s linear 11.562538753696135s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.60" y="-0.60" width="3.2" height="1.2" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-6 0.55s linear 10.355682191922606s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-7 0.55s linear 11.02316562601267s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-8 0.55s linear 11.638149954786641s 1 forwards; pointer-events: none;" aria-hidden="true"/></g></g>
   <g class="sheep-0" style="transform: translate(-9999px, -9999px) rotate(180deg) scale(0.8533333333333333) translate(-8px, -6.25px); opacity: 0; animation: sheep-0-move 22.71s linear 0s 1 both;"><g transform="translate(0,7.5) scale(1,1.25) translate(0,-7.5)">
   <path
