@@ -2215,6 +2215,12 @@
     96.5633% { fill: #0e4429; }
     100% { fill: #0e4429; }
   }
+  @keyframes grass-paint-365 {
+    0% { fill: #161b22; }
+    96.5111% { fill: #161b22; }
+    96.5211% { fill: #006d32; }
+    100% { fill: #006d32; }
+  }
   
   @keyframes flower-0 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
@@ -2226,10 +2232,10 @@
   }
   @keyframes flower-1 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    9.9282% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    9.9283% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    10.1484% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    12.1299% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    33.8177% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    33.8178% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    34.0379% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    36.0194% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
   @keyframes flower-2 {
@@ -2242,45 +2248,13 @@
   }
   @keyframes flower-3 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    33.8177% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    33.8178% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    34.0379% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    36.0194% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-4 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    34.1154% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    34.1155% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    34.3355% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    36.3170% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-5 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    33.8177% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    33.8178% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    34.0379% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    36.0194% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-6 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    34.2376% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    34.2377% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    34.4578% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    36.4393% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-7 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     36.0194% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     36.0195% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
     36.2395% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
     38.2210% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
-  @keyframes flower-8 {
+  @keyframes flower-4 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     38.2210% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     38.2211% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
@@ -2288,7 +2262,15 @@
     40.4227% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
-  @keyframes flower-9 {
+  @keyframes flower-5 {
+    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    38.4867% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    38.4868% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    38.7069% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    40.6884% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+  }
+  @keyframes flower-6 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     40.4227% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     40.4228% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
@@ -2296,7 +2278,7 @@
     42.6244% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
-  @keyframes flower-10 {
+  @keyframes flower-7 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     42.6244% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     42.6245% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
@@ -2304,15 +2286,7 @@
     44.8261% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
-  @keyframes flower-11 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    42.8485% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    42.8486% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    43.0687% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    45.0502% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-12 {
+  @keyframes flower-8 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     44.8261% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     44.8262% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
@@ -2320,23 +2294,15 @@
     47.0277% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
-  @keyframes flower-13 {
+  @keyframes flower-9 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    44.8261% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    44.8262% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    45.0462% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    47.0277% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    45.1309% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    45.1310% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    45.3510% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    47.3325% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
-  @keyframes flower-14 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    45.2458% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    45.2459% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    45.4659% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    47.4474% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-15 {
+  @keyframes flower-10 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     58.0361% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     58.0362% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
@@ -2344,12 +2310,52 @@
     60.2378% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
-  @keyframes flower-16 {
+  @keyframes flower-11 {
     0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     26.5522% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
     26.5523% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
     26.7723% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
     28.7539% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+  }
+  @keyframes flower-12 {
+    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    57.3756% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    57.3757% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    57.5958% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    59.5773% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+  }
+  @keyframes flower-13 {
+    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    57.3756% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    57.3757% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    57.5958% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    59.5773% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+  }
+  @keyframes flower-14 {
+    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    57.3756% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    57.3757% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    57.5958% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    59.5773% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+  }
+  @keyframes flower-15 {
+    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    57.8004% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    57.8005% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    58.0205% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    60.0020% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
+  }
+  @keyframes flower-16 {
+    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    44.1656% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
+    44.1657% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    44.3857% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
+    46.3672% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
   @keyframes flower-17 {
@@ -2358,62 +2364,6 @@
     57.3757% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
     57.5958% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
     59.5773% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-18 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.3756% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.3757% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    57.5958% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    59.5773% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-19 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.7056% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.7057% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    57.9257% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    59.9072% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-20 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    44.1656% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    44.1657% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    44.3857% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    46.3672% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-21 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    44.4002% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    44.4003% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    44.6204% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    46.6019% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-22 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.3756% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.3757% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    57.5958% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    59.5773% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-23 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.3756% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.3757% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    57.5958% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    59.5773% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-    100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
-  }
-  @keyframes flower-24 {
-    0% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.6787% { opacity: 0; visibility: hidden; transform: scale(0) rotate(-10deg); }
-    57.6788% { opacity: 0.8; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    57.8989% { opacity: 1; visibility: visible; transform: scale(1.2) rotate(-10deg); }
-    59.8804% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
     100% { opacity: 1; visibility: visible; transform: scale(1) rotate(0deg); }
   }
   
@@ -4014,31 +3964,25 @@
   <rect x="624" y="72" width="10" height="10" fill="#161b22" rx="2" style="animation: grass-paint-362 22.71s linear 0s 1 both"/>
   <rect x="624" y="84" width="10" height="10" fill="#161b22" rx="2" style="animation: grass-paint-363 22.71s linear 0s 1 both"/>
   <rect x="636" y="12" width="10" height="10" fill="#161b22" rx="2" style="animation: grass-paint-364 22.71s linear 0s 1 both"/>
-  <g id="flower-layer"><rect x="412.8976120116035" y="14.277348066869267" width="0.8211703590809599" height="0.8211703590809599" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-0 22.71s linear 0s 1 both"/>
-  <rect x="416.37168660104237" y="16.299889549943856" width="1.1822956784813714" height="1.1822956784813714" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-1 22.71s linear 0s 1 both"/>
-  <rect x="412.17762542493375" y="27.021606359052207" width="0.7048941482892324" height="0.7048941482892324" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-2 22.71s linear 0s 1 both"/>
-  <rect x="414.55346198036165" y="30.344547363546916" width="1.2584490745229768" height="1.2584490745229768" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-3 22.71s linear 0s 1 both"/>
-  <rect x="409.3220012116838" y="28.464044803924768" width="0.8910811572551006" height="0.8910811572551006" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-4 22.71s linear 0s 1 both"/>
-  <rect x="416.7047975429441" y="37.65471144011355" width="0.75827467291766" height="0.75827467291766" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-5 22.71s linear 0s 1 both"/>
-  <rect x="415.8383895542596" y="43.923228200932" width="1.0279095327621306" height="1.0279095327621306" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-6 22.71s linear 0s 1 both"/>
-  <rect x="411.711693766141" y="49.47745115463364" width="1.1349922091051494" height="1.1349922091051494" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-7 22.71s linear 0s 1 both"/>
-  <rect x="410.96496155950194" y="64.51245113878329" width="0.7868569674547505" height="0.7868569674547505" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-8 22.71s linear 0s 1 both"/>
-  <rect x="411.21152312934294" y="79.25058524239547" width="1.033455586580195" height="1.033455586580195" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-9 22.71s linear 0s 1 both"/>
-  <rect x="422.7924294438164" y="80.55958583563654" width="1.1083687830415223" height="1.1083687830415223" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-10 22.71s linear 0s 1 both"/>
-  <rect x="421.67704271904154" y="76.4822974143036" width="0.8150711509940453" height="0.8150711509940453" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-11 22.71s linear 0s 1 both"/>
-  <rect x="440.61314170773903" y="76.39010971408675" width="0.7624814167538071" height="0.7624814167538071" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-12 22.71s linear 0s 1 both"/>
-  <rect x="435.60288920104364" y="74.95347353583948" width="0.8161961813525078" height="0.8161961813525078" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-13 22.71s linear 0s 1 both"/>
-  <rect x="437.9874270333674" y="75.81574262117664" width="0.8494472487601481" height="0.8494472487601481" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-14 22.71s linear 0s 1 both"/>
-  <rect x="446.07992008083295" y="77.64777790398253" width="0.79073109137212" height="0.79073109137212" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-15 22.71s linear 0s 1 both"/>
-  <rect x="617.4664537790477" y="28.182820132039346" width="0.9502844696835213" height="0.9502844696835213" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-16 22.71s linear 0s 1 both"/>
-  <rect x="619.3998086596134" y="44.501025520420804" width="1.241196025767886" height="1.241196025767886" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-17 22.71s linear 0s 1 both"/>
-  <rect x="616.0030712744963" y="37.81189691664514" width="0.90498494019534" height="0.90498494019534" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-18 22.71s linear 0s 1 both"/>
-  <rect x="620.3453767442151" y="38.30961202572365" width="0.9030555662536499" height="0.9030555662536499" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-19 22.71s linear 0s 1 both"/>
-  <rect x="630.5597770759312" y="29.593392810664557" width="1.1036554021324623" height="1.1036554021324623" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-20 22.71s linear 0s 1 both"/>
-  <rect x="625.072971100837" y="25.185128299278645" width="1.1034436228520739" height="1.1034436228520739" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-21 22.71s linear 0s 1 both"/>
-  <rect x="631.5326618878987" y="40.7006607475152" width="0.9875861549269797" height="0.9875861549269797" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-22 22.71s linear 0s 1 both"/>
-  <rect x="630.186769161923" y="41.574508954481644" width="1.0033041034657229" height="1.0033041034657229" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-23 22.71s linear 0s 1 both"/>
-  <rect x="626.7642649167469" y="40.21609425143192" width="0.7256661174152932" height="0.7256661174152932" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-24 22.71s linear 0s 1 both"/></g>
+  <rect x="636" y="24" width="10" height="10" fill="#161b22" rx="2" style="animation: grass-paint-365 22.71s linear 0s 1 both"/>
+  <g id="flower-layer"><rect x="416.7045589052846" y="13.200588199617444" width="1.287686446227567" height="1.287686446227567" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-0 22.71s linear 0s 1 both"/>
+  <rect x="413.6741737472851" y="31.761078564321572" width="1.0696058140547255" height="1.0696058140547255" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-1 22.71s linear 0s 1 both"/>
+  <rect x="412.73826808656713" y="40.81636291816516" width="0.7656767178856698" height="0.7656767178856698" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-2 22.71s linear 0s 1 both"/>
+  <rect x="409.17033232529394" y="54.952243473587316" width="0.9434849164195509" height="0.9434849164195509" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-3 22.71s linear 0s 1 both"/>
+  <rect x="411.31460054047903" y="66.01474528589299" width="1.2379288241066968" height="1.2379288241066968" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-4 22.71s linear 0s 1 both"/>
+  <rect x="411.9159627412574" y="62.69872891902091" width="1.2239163664962487" height="1.2239163664962487" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-5 22.71s linear 0s 1 both"/>
+  <rect x="410.80786687147526" y="77.42538206208526" width="1.0608425268066206" height="1.0608425268066206" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-6 22.71s linear 0s 1 both"/>
+  <rect x="425.67552614941053" y="75.80582555245371" width="1.013817259397821" height="1.013817259397821" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-7 22.71s linear 0s 1 both"/>
+  <rect x="434.3648194950158" y="74.15536836792667" width="1.1105200023723771" height="1.1105200023723771" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-8 22.71s linear 0s 1 both"/>
+  <rect x="434.6042499471756" y="75.4152623283085" width="1.2735895067388032" height="1.2735895067388032" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-9 22.71s linear 0s 1 both"/>
+  <rect x="449.1603672386186" y="74.01147968235892" width="1.2088410486636827" height="1.2088410486636827" fill="#FFFFFF" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-10 22.71s linear 0s 1 both"/>
+  <rect x="617.9275869314405" y="25.74517757977565" width="1.0342590345749443" height="1.0342590345749443" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-11 22.71s linear 0s 1 both"/>
+  <rect x="618.0486585825082" y="41.37102569942331" width="0.7012547851114094" height="0.7012547851114094" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-12 22.71s linear 0s 1 both"/>
+  <rect x="618.3910495334603" y="43.756770566998334" width="0.7503104721461911" height="0.7503104721461911" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-13 22.71s linear 0s 1 both"/>
+  <rect x="619.8414565014696" y="41.751600591807104" width="0.7789341488770207" height="0.7789341488770207" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-14 22.71s linear 0s 1 both"/>
+  <rect x="616.7734238690329" y="43.869468027844384" width="1.06461679143502" height="1.06461679143502" fill="#F472B6" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-15 22.71s linear 0s 1 both"/>
+  <rect x="625.76277542721" y="27.566805942528575" width="1.2777182628058248" height="1.2777182628058248" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-16 22.71s linear 0s 1 both"/>
+  <rect x="631.0208610481321" y="41.07014437360871" width="1.0224754662282352" height="1.0224754662282352" fill="#D8B4FE" style="opacity:0; visibility:hidden; transform-box: fill-box; transform-origin: center; animation: flower-17 22.71s linear 0s 1 both"/></g>
   <g id="grass-crumbs" aria-hidden="true"><g transform="translate(413.00, 32.00)" aria-hidden="true"><rect x="-1.60" y="-0.60" width="3.2" height="1.2" rx="0.6" ry="0.6" fill="#006d32" style="transform-box: fill-box; transform-origin: center; animation: crumb-0-0 0.55s linear 2.34s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#006d32" style="transform-box: fill-box; transform-origin: center; animation: crumb-0-1 0.55s linear 2.4064671406024716s 1 forwards; pointer-events: none;" aria-hidden="true"/></g><g transform="translate(452.00, 77.00)" aria-hidden="true"><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#006d32" style="transform-box: fill-box; transform-origin: center; animation: crumb-1-0 0.55s linear 10.952111693613988s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#006d32" style="transform-box: fill-box; transform-origin: center; animation: crumb-1-1 0.55s linear 12.133713049533252s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#006d32" style="transform-box: fill-box; transform-origin: center; animation: crumb-1-2 0.55s linear 12.151523724630533s 1 forwards; pointer-events: none;" aria-hidden="true"/></g><g transform="translate(617.00, 44.00)" aria-hidden="true"><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-0 0.55s linear 6.950743871133418s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-1 0.55s linear 7.637888288329123s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-2 0.55s linear 6.394758851834049s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-3 0.55s linear 7.6244338026820335s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-4 0.55s linear 7.607750946947199s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-5 0.55s linear 7.562538753696135s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.60" y="-0.60" width="3.2" height="1.2" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-6 0.55s linear 6.355682191922606s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-7 0.55s linear 7.023165626012669s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#39d353" style="transform-box: fill-box; transform-origin: center; animation: crumb-2-8 0.55s linear 7.638149954786641s 1 forwards; pointer-events: none;" aria-hidden="true"/></g><g transform="translate(629.00, 44.00)" aria-hidden="true"><rect x="-1.60" y="-0.60" width="3.2" height="1.2" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-3-0 0.55s linear 10.352798550744483s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-3-1 0.55s linear 11.561748987037571s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-3-2 0.55s linear 10.387500046704517s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-3-3 0.55s linear 10.981883870957336s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-3-4 0.55s linear 10.454309493506297s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.20" y="-1.20" width="2.4" height="2.4" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-3-5 0.55s linear 11.018683684199932s 1 forwards; pointer-events: none;" aria-hidden="true"/><rect x="-1.60" y="-0.60" width="3.2" height="1.2" rx="0.6" ry="0.6" fill="#26a641" style="transform-box: fill-box; transform-origin: center; animation: crumb-3-6 0.55s linear 10.449555117483833s 1 forwards; pointer-events: none;" aria-hidden="true"/></g></g>
   <g class="sheep-0" style="transform: translate(-9999px, -9999px) rotate(180deg) scale(0.8533333333333333) translate(-8px, -6.25px); opacity: 0; animation: sheep-0-move 22.71s linear 0s 1 both;"><g transform="translate(0,7.5) scale(1,1.25) translate(0,-7.5)">
   <path
