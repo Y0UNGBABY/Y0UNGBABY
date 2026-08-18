@@ -20,7 +20,8 @@
 
 ## 🌿 My GitHub Garden
 
-![My animated GitHub garden](https://raw.githubusercontent.com/Y0UNGBABY/Y0UNGBABY/main/assets/live.svg)
+![My animated GitHub garden](https://raw.githubusercontent.com/Y0UNGBABY/Y0UNGBABY/main/assets/live-light.svg#gh-light-mode-only)
+![My animated GitHub garden](https://raw.githubusercontent.com/Y0UNGBABY/Y0UNGBABY/main/assets/live-dark.svg#gh-dark-mode-only)
 
 ---
 
